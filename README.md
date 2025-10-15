@@ -119,12 +119,6 @@ Pull requests, suggestions, and issues are welcome! If you have ideas for improv
 
 ---
 
-## 📜 License
-
-This project is MIT licensed.
-
----
-
 ## 👤 Author
 
 Pratyush Srivastava  
